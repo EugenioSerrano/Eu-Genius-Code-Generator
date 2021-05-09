@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Visual Studio 
+.vs
+bin
+obj
+packages
+_ReSharper.*
+*.suo
+*.user
+
+<<<<<<< HEAD
+# Visual Studio Code
+.vscode
+
+# Node
+node_modules
+
+=======
+node_modules
+>>>>>>> 625ade6a856b3034c349771c0c534de1d6add296
+Svelte/HolaMundo/package-lock.json
